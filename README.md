@@ -60,7 +60,7 @@ Most people consider doing 30 practice runs for a talk to be absurd, a totally o
 ---
 
 
-### [Embrace the Suck](https://danluu.com/productivity-velocity/)
+### [Productivity Velocity](https://danluu.com/productivity-velocity/)
 
 I find this a bit funny since I'm not a naturally quick programmer. Learning to program was a real struggle for me and I was pretty slow at it for a long time (and I still am in aspects that I haven't practiced). My "one weird trick" is that I've explicitly worked on speeding up things that I do frequently and most people have not. I view the situation as somewhat analogous to sports before people really trained. For a long time, many athletes didn't seriously train, and then once people started trying to train, the training was often misguided by modern standards. For example, if you read commentary on baseball from the 70s, you'll see people saying that baseball players shouldn't weight train because it will make them "muscle bound" (many people thought that weight lifting would lead to "too much" bulk, causing people to be slower, have less explosive power, and be less agile). But today, players get a huge advantage from using performance-enhancing drugs that increase their muscle-bound-ness, which implies that players could not get too "muscle bound" from weight training alone. An analogous comment to one discussed above would be saying that athletes shouldn't worry about power/strength and should increase their skill, but power increases returns to skill and vice versa.
 
