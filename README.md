@@ -1,6 +1,4 @@
-# My Unoriginal Thoughts
-
-A directory of links and blog excerpts I find interesting.
+A directory of links and blog excerpts (copy pasted verbatim) I find interesting. I'm unsure if I want to commentate on these yet.
 
 ## Engineering
 
