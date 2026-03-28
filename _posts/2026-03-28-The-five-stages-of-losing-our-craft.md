@@ -5,7 +5,7 @@ categories: [Leadership]
 source_url: "https://andrewmurphy.io/blog/the-five-stages-of-losing-our-craft"
 ---
 
-#### Acceptance: but not the kind you think
+## Acceptance: but not the kind you think
 
 The craft evolves. It always has.
 
@@ -17,7 +17,7 @@ You know the thousand small judgement calls that separate software that works fr
 
 None of that gets automated away. Kent Beck put it better than I can: "The value of 90% of my skills just dropped to $0. The leverage for the remaining 10% went up 1000x." He's right. The trick is figuring out which 10% is going to be your 1000x.
 
-####The thing that doesn't get automated
+## The thing that doesn't get automated
 
 Here's what I know: the people who come out the other side of this aren't the ones who write the best code. 
 
