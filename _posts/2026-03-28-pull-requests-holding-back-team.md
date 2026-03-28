@@ -11,7 +11,7 @@ The software industry suffers badly from Cargo Cults. Organisations and individu
 
 ## Avoidance of Accountability
 
-I wonder whether PRs encourage developers to feel a false sense of security, allowing us to subconsciously think we can avoid a level of accountability by shifting it onto the reviewer.
+**I wonder whether PRs encourage developers to feel a false sense of security, allowing us to subconsciously think we can avoid a level of accountability by shifting it onto the reviewer.**
 
 ## Pull Requests Aren't Actually That Good for Code Reviews
 
