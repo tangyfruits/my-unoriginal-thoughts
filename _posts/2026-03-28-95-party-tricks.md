@@ -2,7 +2,7 @@
 layout: post
 title: "Crushing JIRA tickets is a party trick, not a path to impact"
 categories: [Engineering, Product]
-source_url: "https://danluu.com/p95-skill/"
+source_url: "https://www.seangoedecke.com/party-tricks/"
 ---
 
 On many teams, it’s not that hard to do 2x or 3x more tickets than the next most productive person. But this is a dead end. You’ll get a pat on the head, told “nice work, don’t burn yourself out”, and no progress towards a senior promotion.

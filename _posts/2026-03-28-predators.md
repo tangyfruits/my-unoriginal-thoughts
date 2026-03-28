@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Predators"
-categories: [Engineering]
+categories: [Engineering, Product]
 source_url: "https://www.seangoedecke.com/predators/"
 ---
 
