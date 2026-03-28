@@ -1,7 +1,7 @@
 title: My Unoriginal Thoughts
 description: A directory of links and blog excerpts I find interesting. Unsure if I want to commentate on these yet.
-baseurl: ""
-url: ""
+baseurl: "/my-unoriginal-thoughts"
+url: "https://tangyfruits.github.io"
 theme: minima
 
 author: D
