@@ -19,21 +19,17 @@ layout: default
   </nav>
 
   <div class="tab-panel active" id="tab-all">
-    {%- for category in categories -%}
-      <div class="post-list">
-        {%- for post in site.posts -%}
-          {%- if post.categories contains category -%}
-          <article>
-            <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
-            {%- if post.source_url -%}
-              <span class="post-meta"><a href="{{ post.source_url }}" target="_blank" rel="noopener">{{ post.source_url }}</a></span>
-            {%- endif -%}
-            <div class="post-content">{{ post.content }}</div>
-          </article>
-          {%- endif -%}
-        {%- endfor -%}
-      </div>
-    {%- endfor -%}
+    <div class="post-list">
+      {%- for post in site.posts -%}
+      <article>
+        <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+        {%- if post.source_url -%}
+          <span class="post-meta"><a href="{{ post.source_url }}" target="_blank" rel="noopener">{{ post.source_url }}</a></span>
+        {%- endif -%}
+        <div class="post-content">{{ post.content }}</div>
+      </article>
+      {%- endfor -%}
+    </div>
   </div>
 
   {%- for category in categories -%}
