@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What makes strong engineers strong?"
+title: "Don't let AI write for you"
 categories: [Philosophy]
 source_url: "https://alexhwoods.com/dont-let-ai-write-for-you/"
 ---
